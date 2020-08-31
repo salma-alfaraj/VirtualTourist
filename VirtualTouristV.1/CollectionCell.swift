@@ -6,4 +6,12 @@
 //  Copyright © 1441 salma. All rights reserved.
 //
 
-import Foundation
+import UIKit
+//import CoreData
+class CollectionCell: UICollectionViewCell {
+    
+    
+    @IBOutlet weak var imageView: UIImageView!
+   
+
+}
